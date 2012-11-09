@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Chris Williams"]
   gem.email         = ["chris@wellnessfx.com"]
   gem.description   = %q{This gem facilitates a particular pattern for simple state machines that I happen to like.}
-  gem.summary       = %q{A lightweight state machine gem}
+  gem.summary       = %q{A lightweight state machine gem for ActiveRecord}
   gem.homepage      = "https://github.com/chriswfx/state_contraption"
 
   gem.files         = `git ls-files`.split($\)
